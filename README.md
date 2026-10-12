@@ -4,7 +4,7 @@ An interactive, browser-based inventory management mini-project built using **HT
 
 ## 🌐 Live Demo
 
-**Live Website:** [View Live Project](https://inventory-dashboard0.onrender.com)
+**https://inventory-dashboard0.onrender.com** 
 
 > Replace `YOUR_LIVE_WEBSITE_URL_HERE` with your deployed website URL after publishing the project.
 
